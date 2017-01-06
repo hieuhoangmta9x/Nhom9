@@ -6,6 +6,6 @@ namespace VB2QLNS.Helper
 {
     class DataConfig
     {
-        public static string ConnectionString = @"server=.;database=VB2.QLNS;integrated security=SSPI";
+        public static string ConnectionString = @"server=127.0.0.1;database=VB2.QLNS;integrated security=SSPI";
     }
 }
