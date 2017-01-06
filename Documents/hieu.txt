@@ -1,2 +1,0 @@
-Test commit
-Sửa 1 file từ Server lưu thay đổi xuống Local Repository
